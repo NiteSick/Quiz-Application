@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="card_hint">e.g. Jhon</string>
+    <string name="card_welcome">Welcome</string>
+    <string name="Main_activity_heading">Quiz App</string>
+    <string name="card_question">Please enter your name</string>
+    <string name="button_name">START</string>
+    <string name="submit_button">SUBMIT</string>
+</resources>
